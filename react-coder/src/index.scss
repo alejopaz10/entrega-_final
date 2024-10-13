@@ -1,0 +1,10 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Raleway:wght@200;300;400;500;700;800&display=swap");
+/*globals*/
+@import './styles/variables';
+@import './styles/mixins';
+@import './styles/reset';
+@import './styles/shared';
+
+/* componets */
+@import './components/LinkButton/'
